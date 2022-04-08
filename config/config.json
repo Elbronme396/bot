@@ -1,7 +1,7 @@
 {
-    "token": "OTU3ODEyNTEwOTAyMzMzNDgx.YkEOaQ.-o91-tyIeuTfzogQSJwl07GwjZI",
-    "prefix": "k!",
-    "mongodb": "mongodb+srv://Edlric-bot:BraddOntonMerino396YT@cluster0.q6xxh.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-    "ownerIDS": ["816685255850852383", "833761963632885800"],
+    "token": "token",
+    "prefix": "prefix",
+    "mongodb": "link de mongodb",
+    "ownerIDS": ["id de creadores del bot"],
     "color": "#bf0b0e"
 }
